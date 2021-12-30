@@ -307,4 +307,8 @@ a {
     .items {
         grid-template-columns: repeat(2, 1fr);
     }
+
+    .container {
+        width: 480px;
+    }
 }
